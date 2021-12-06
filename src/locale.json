@@ -1,0 +1,19 @@
+{
+    "about_me": {
+        "en": "About me",
+        "es": "Sobre mi",
+        "ca": "Sobre mi"
+    },
+
+    "projects": {
+        "en": "Projects",
+        "es": "Proyectos",
+        "ca": "Projectes"
+    },
+
+    "contact": {
+        "en": "Contact",
+        "es": "Contacto",
+        "ca": "Contacte"
+    }
+}
