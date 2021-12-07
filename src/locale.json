@@ -1,4 +1,10 @@
 {
+    "subtitle": {
+        "en": "Full Stack Developer",
+        "es": "Desarrollador Full Stack",
+        "ca": "Desenvolupador Full Stack"
+    },
+
     "about_me": {
         "en": "About me",
         "es": "Sobre mi",
